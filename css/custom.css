@@ -134,6 +134,18 @@ h1.news{
 }
 /* END Main */
 
+/* Footer */
+
+.fb > img {
+	width: 50px;
+}
+
+
+.copyright{
+	line-height: 50px;
+}
+/* END Footer*/
+
 
 /* Contacts */
 .map > iframe{
