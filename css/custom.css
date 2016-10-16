@@ -119,6 +119,12 @@ ul.dropdown_product {
 	margin-bottom: 20px;
 }
 
+h1, h2, h3, h4, h5{
+	font-family: 'Roboto Condensed', sans-serif;
+	color: rgba(0, 0, 0, 0.51);
+	
+}
+
 h1.news{
 	font-size: 30px;
 }
